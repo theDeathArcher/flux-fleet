@@ -8,4 +8,4 @@ metadata:
 data:
   ENVIRONMENT: staging
   CLUSTER_NAME: kind-flux-staging
-  CLUSTER_DOMAIN: staging1.example.com
+  CLUSTER_DOMAIN: staging.example.com
